@@ -46,20 +46,3 @@ __pycache__/
 *.pyo
 *.pyd
 .Python
-
-# Backup files
-*.bak
-*.backup
-*.old
-
-# Screenshots and images (if not needed in repo)
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.bmp
-*.tiff
-
-# Assignment files (if they contain sensitive info)
-*assignment*
-*homework*
