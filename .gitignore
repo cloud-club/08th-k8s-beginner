@@ -1,0 +1,65 @@
+# Kind cluster files
+kind-cluster-config.yaml
+kind-cluster-*.yaml
+
+# Kubernetes temporary files
+*.kubeconfig
+kubeconfig*
+.kube/
+
+# Docker files
+.dockerignore
+docker-compose.override.yml
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Node modules (if any)
+node_modules/
+
+# Python cache (if any)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Screenshots and images (if not needed in repo)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+
+# Assignment files (if they contain sensitive info)
+*assignment*
+*homework*
